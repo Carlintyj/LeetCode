@@ -1,2 +1,2 @@
-# LeetCode
-LeetCode exercise that I attempted
+# Leetcode
+Leetcode exercises that I have attempted.
