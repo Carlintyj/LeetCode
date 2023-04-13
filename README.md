@@ -8,11 +8,11 @@ Leetcode exercises that I have attempted.
 71. [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/71.%20Simplify%20Path/src/Solution.java)
 493. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/492.%20Construct%20the%20Rectangle/src/Solution.java)
 881. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/881.%20Boats%20to%20Save%20People/src/Solution.java)
-946. Validate Stack Sequences
-1020. Number of Enclaves
-1254. Number of Closed Islands
-2300. Successful Pairs of Spells and Potions
-2390. Removing Stars From a String
-2405. Optimal Partition of String
-2439. Minimize Maximum of Array
+946. [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/946.%20Validate%20Stack%20Sequences/src/Solution.java)
+1020. [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/1020.%20Number%20of%20Enclaves/src/Solution.java)
+1254. [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/1254.%20Number%20of%20Closed%20Islands/src/Solution.java)
+2300. [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions/src/Solution.java)
+2390. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions/src/Solution.java)
+2405. [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/2405.%20Optimal%20Partition%20of%20String/src/Solution.java)
+2439. [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [Solution](https://github.com/Carlintyj/Leetcode/blob/main/2439.%20Minimize%20Maximum%20of%20Array/src/Solution.java)
 
