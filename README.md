@@ -2,6 +2,8 @@
 
 Leetcode exercises that I have attempted.
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/carlintyj?theme=dark&extension=activity)](https://leetcard.jacoblin.cool/carlintyj?theme=dark&extension=activity)
+
 ## My Solutions
 Leetcode Exercise|Solution|Difficulty
 -----------------|---------|-----------
