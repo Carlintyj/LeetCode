@@ -3,10 +3,10 @@
 Leetcode exercises that I have attempted.
 
 ## My Solutions
-Leetcode Exercise|Solution
------------------|---------
+Leetcode Exercise|Solution|Difficulty
+-----------------|---------|-----------
 [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/1.%20TwoSum/src/Solution.java)
-[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/src/Solution.java)
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution (Java)(https://github.com/Carlintyj/Leetcode/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/src/Solution.java)| Medium
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Solution (Python)](https://github.com/Carlintyj/Leetcode/blob/main/4.%20Median%20of%20Two%20Sorted%20Arrays/Solution.py)
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/20.%20Valid%20Parentheses/src/Solution.java)
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/71.%20Simplify%20Path/src/Solution.java)
@@ -16,7 +16,7 @@ Leetcode Exercise|Solution
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/946.%20Validate%20Stack%20Sequences/src/Solution.java)
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/1020.%20Number%20of%20Enclaves/src/Solution.java)
 [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/1254.%20Number%20of%20Closed%20Islands/src/Solution.java)
-[2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2218.%20Maximum%20Value%20of%20K%20Coins%20From%20Piles/src/Solution.java)
+[2218. Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/description/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2218.%20Maximum%20Value%20of%20K%20Coins%20From%20Piles/src/Solution.java)| Hard
 [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions/src/Solution.java)
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions/src/Solution.java)
 [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2405.%20Optimal%20Partition%20of%20String/src/Solution.java)
