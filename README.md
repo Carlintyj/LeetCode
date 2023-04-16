@@ -6,6 +6,7 @@ Leetcode exercises that I have attempted.
 Leetcode Exercise|Solution
 -----------------|---------
 [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/1.%20TwoSum/src/Solution.java)
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/src/Solution.java)
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Solution (Python)](https://github.com/Carlintyj/Leetcode/blob/main/4.%20Median%20of%20Two%20Sorted%20Arrays/Solution.py)
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/20.%20Valid%20Parentheses/src/Solution.java)
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/71.%20Simplify%20Path/src/Solution.java)
