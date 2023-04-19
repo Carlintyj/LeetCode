@@ -11,6 +11,7 @@ Leetcode Exercise|Solution|Difficulty
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/3.%20Longest%20Substring%20Without%20Repeating%20Characters/src/Solution.java)| Medium
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Solution (Python)](https://github.com/Carlintyj/Leetcode/blob/main/4.%20Median%20of%20Two%20Sorted%20Arrays/Solution.py) | Hard
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution (Python)](https://github.com/Carlintyj/Leetcode/blob/main/9.%20Palindrome%20Number/Solution.py) | Easy
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution (JavaScript)](https://github.com/Carlintyj/Leetcode/blob/main/13.%20Roman%20to%20Integer/Solution.js) | Easy
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/20.%20Valid%20Parentheses/src/Solution.java) | Easy
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/71.%20Simplify%20Path/src/Solution.java) | Medium
 [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/492.%20Construct%20the%20Rectangle/src/Solution.java) | Easy
