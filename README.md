@@ -16,6 +16,7 @@ Leetcode Exercise|Solution|Difficulty
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/20.%20Valid%20Parentheses/src/Solution.java) | Easy
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/21.%20Merge%20Two%20Sorted%20Lists/src/Solution%20(Recursion).java) | Easy
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/71.%20Simplify%20Path/src/Solution.java) | Medium
+[319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/b76e6477702bbbc0b100953c373a28c1dd6fa286/319.%20Bulb%20Switcher/319.%20Bulb%20Switcher.java) | Medium
 [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/492.%20Construct%20the%20Rectangle/src/Solution.java) | Easy
 [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/516.%20Longest%20Palindromic%20Subsequence/src/Solution.java)| Medium
 [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/881.%20Boats%20to%20Save%20People/src/Solution.java) | Medium
