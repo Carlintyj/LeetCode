@@ -15,6 +15,8 @@ Leetcode Exercise|Solution|Difficulty
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution (Python)](https://github.com/Carlintyj/Leetcode/blob/main/14.%20Longest%20Common%20Prefix/Solution.py) | Easy
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/20.%20Valid%20Parentheses/src/Solution.java) | Easy
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/21.%20Merge%20Two%20Sorted%20Lists/src/Solution%20(Recursion).java) | Easy
+[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/54.%20Spiral%20Matrix/Solution.java) | Medium
+[59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/59.%20Spiral%20Matrix%20II/Solution.java) | Medium
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/258.%20Add%20Digits/258.%20Add%20Digits.c) | Medium
 [258. Add Digits](https://leetcode.com/problems/add-digits/) | [Solution (C)](https://github.com/Carlintyj/Leetcode/blob/main/71.%20Simplify%20Path/src/Solution.java) | Easy
 [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/b76e6477702bbbc0b100953c373a28c1dd6fa286/319.%20Bulb%20Switcher/319.%20Bulb%20Switcher.java) | Medium
