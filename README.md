@@ -15,7 +15,7 @@ Leetcode Exercise|Solution|Difficulty
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution (Python)](https://github.com/Carlintyj/Leetcode/blob/main/14.%20Longest%20Common%20Prefix/Solution.py) | Easy
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/20.%20Valid%20Parentheses/src/Solution.java) | Easy
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/21.%20Merge%20Two%20Sorted%20Lists/src/Solution%20(Recursion).java) | Easy
-[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/24.%20Swap%20Nodes%20in%20Pairs/Solution.c) | Medium
+[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution (C)](https://github.com/Carlintyj/Leetcode/blob/main/24.%20Swap%20Nodes%20in%20Pairs/Solution.c) | Medium
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/54.%20Spiral%20Matrix/Solution.java) | Medium
 [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/59.%20Spiral%20Matrix%20II/Solution.java) | Medium
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/258.%20Add%20Digits/258.%20Add%20Digits.c) | Medium
