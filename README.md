@@ -23,6 +23,7 @@ Leetcode Exercise|Solution|Difficulty
 [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/b76e6477702bbbc0b100953c373a28c1dd6fa286/319.%20Bulb%20Switcher/319.%20Bulb%20Switcher.java) | Medium
 [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/492.%20Construct%20the%20Rectangle/src/Solution.java) | Easy
 [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/516.%20Longest%20Palindromic%20Subsequence/src/Solution.java)| Medium
+[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/785.%20Is%20Graph%20Bipartite/Solution.java)| Medium
 [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/881.%20Boats%20to%20Save%20People/src/Solution.java) | Medium
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/946.%20Validate%20Stack%20Sequences/src/Solution.java) | Medium
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/1020.%20Number%20of%20Enclaves/src/Solution.java) | Medium
