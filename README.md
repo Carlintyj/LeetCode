@@ -21,6 +21,7 @@ Leetcode Exercise|Solution|Difficulty
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/258.%20Add%20Digits/258.%20Add%20Digits.c) | Medium
 [258. Add Digits](https://leetcode.com/problems/add-digits/) | [Solution (C)](https://github.com/Carlintyj/Leetcode/blob/main/71.%20Simplify%20Path/src/Solution.java) | Easy
 [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/b76e6477702bbbc0b100953c373a28c1dd6fa286/319.%20Bulb%20Switcher/319.%20Bulb%20Switcher.java) | Medium
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/347.%20Top%20K%20Frequent%20Elements/Solution.java) | Medium
 [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/492.%20Construct%20the%20Rectangle/src/Solution.java) | Easy
 [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/516.%20Longest%20Palindromic%20Subsequence/src/Solution.java)| Medium
 [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/785.%20Is%20Graph%20Bipartite/Solution.java)| Medium
