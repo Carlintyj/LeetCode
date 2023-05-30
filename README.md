@@ -25,6 +25,7 @@ Leetcode Exercise|Solution|Difficulty
 [492. Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/492.%20Construct%20the%20Rectangle/src/Solution.java) | Easy
 [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/516.%20Longest%20Palindromic%20Subsequence/src/Solution.java)| Medium
 [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/703.%20Kth%20Largest%20Element%20in%20a%20Stream/Solution.java)| Easy
+[705. Design HashSet](https://leetcode.com/problems/design-hashset/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/705.%20Design%20HashSet/Solution.java)| Easy
 [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/785.%20Is%20Graph%20Bipartite/Solution.java)| Medium
 [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/881.%20Boats%20to%20Save%20People/src/Solution.java) | Medium
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/946.%20Validate%20Stack%20Sequences/src/Solution.java) | Medium
