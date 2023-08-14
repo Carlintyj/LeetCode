@@ -21,6 +21,7 @@ Leetcode Exercise|Solution|Difficulty
 [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/59.%20Spiral%20Matrix%20II/Solution.java) | Medium
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/258.%20Add%20Digits/258.%20Add%20Digits.c) | Medium
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/111.%20Minimum%20Depth%20of%20Binary%20Tree%20/Solution.java) | Easy
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/215.%20Kth%20Largest%20Element%20in%20an%20Array/Solution.java) | Medium
 [258. Add Digits](https://leetcode.com/problems/add-digits/) | [Solution (C)](https://github.com/Carlintyj/Leetcode/blob/main/71.%20Simplify%20Path/src/Solution.java) | Easy
 [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/b76e6477702bbbc0b100953c373a28c1dd6fa286/319.%20Bulb%20Switcher/319.%20Bulb%20Switcher.java) | Medium
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/347.%20Top%20K%20Frequent%20Elements/Solution.java) | Medium
