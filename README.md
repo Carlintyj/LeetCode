@@ -36,7 +36,8 @@ Leetcode Exercise|Solution|Difficulty
 [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/785.%20Is%20Graph%20Bipartite/Solution.java)| Medium
 [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/852.%20Peak%20Index%20in%20a%20Mountain%20Array/Solution.java) | Medium
 [881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/881.%20Boats%20to%20Save%20People/src/Solution.java) | Medium
-[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/905.%20Sort%20Array%20By%20Parity%20/Solution.java) | Easy
+[881. Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/881.%20Boats%20to%20Save%20People/src/Solution.java) | Easy
+[896. Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/896.%20Monotonic%20Array%20/Solution.java) | Easy
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/946.%20Validate%20Stack%20Sequences/src/Solution.java) | Medium
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/1020.%20Number%20of%20Enclaves/src/Solution.java) | Medium
 [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/1035.%20Uncrossed%20Lines/Solution.java) | Medium
