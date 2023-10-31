@@ -63,6 +63,7 @@ Leetcode Exercise|Solution|Difficulty
 [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions/src/Solution.java) | Medium
 [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2300.%20Successful%20Pairs%20of%20Spells%20and%20Potions/src/Solution.java) | Medium
 [2405. Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2405.%20Optimal%20Partition%20of%20String/src/Solution.java) | Medium
+[2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2433.%20Find%20The%20Original%20Array%20of%20Prefix%20Xor%20/Solution.java) | Medium
 [2439. Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2439.%20Minimize%20Maximum%20of%20Array/src/Solution.java) | Medium
 [2466. Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Solution (Java)](https://github.com/Carlintyj/Leetcode/blob/main/2466.%20Count%20Ways%20To%20Build%20Good%20Strings/Solution.java) | Medium
 
